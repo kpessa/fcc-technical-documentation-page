@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    box-sizing: border-box;
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: thin;
+}
+
+main {
+    padding: 20px;
+}
+
+main header {
+    font-size: 1.8em;
+    margin: 10px;
+}
+
+main p,
+main li {
+    font-size: 0.96em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    color: #4d4e53;
+}
+
+main li {
+    margin: 15px 0px 0px 20px;
+}
+
+code {
+    background: #f5f5f5;
+    padding: 1em;
+    display: block;
+    margin: 1em;
+}

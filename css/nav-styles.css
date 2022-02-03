@@ -1,0 +1,20 @@
+nav header {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+nav a {
+    display: inline-block;
+    width: 100%;
+    text-decoration: none;
+    color: #4d4e53;
+}
+
+nav li {
+    list-style: none;
+    padding: 0.5rem;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
